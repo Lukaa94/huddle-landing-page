@@ -45,6 +45,18 @@ p{
     margin-right: 50px;
 }
 
+.image img {
+    max-inline-size: 100%;
+}
+
+.left{
+    flex: 1;
+}
+
+.right{
+    flex: 1;
+}
+
 .heading-space{
     padding-bottom: 20px;
 }
