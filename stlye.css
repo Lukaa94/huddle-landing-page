@@ -12,6 +12,9 @@
 
 body{
     background-image: url("images/bg-desktop.svg");
+    background-color: var(--primary-color);
 }
+
+
 
 
